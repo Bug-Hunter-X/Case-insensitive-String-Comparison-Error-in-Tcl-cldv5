@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl: using the == operator for case-insensitive string comparison. The example shows how the == operator fails when comparing strings with different casing and provides a corrected solution using the "string match" command. 
